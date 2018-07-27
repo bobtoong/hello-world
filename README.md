@@ -6,4 +6,6 @@ ROUTE 53 에 hosted zone 생성하고, 3번의 elastic ip 연결
  그러면 bobtoong.ga로 AWS EC2로 만들어 놓은 Cloud server에 접속 가능
  
  
+ http://sblog.netraweb.com/setup-external-domain-aws/
+ 
 이제... WEB Service를 설치할 차례...
